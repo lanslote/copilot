@@ -21,6 +21,6 @@ collections:
 just_the_docs:
   collections:
     tests:
-      name: Tests
+      name: 테스트 임당
     tutorials:
       name: Tutorials
