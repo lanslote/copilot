@@ -22,5 +22,6 @@ just_the_docs:
   collections:
     tests:
       name: 테스트 임당
+      nav_fold: true
     tutorials:
       name: Tutorials
