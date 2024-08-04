@@ -26,6 +26,7 @@ just_the_docs:
     tutorials:
       name: Tutorials
 
+#The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined
 callouts:
   warning:
     title: Warning
