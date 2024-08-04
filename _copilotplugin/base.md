@@ -1,7 +1,7 @@
 ---
 title: Base Page Template
 layout: default
-nav_enabled: true
+nav_enabled: false
 nav_order: 99
 has_toc: true
 ---
