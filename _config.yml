@@ -39,3 +39,8 @@ callouts:
   important:
     title: Important
     color: blue
+
+#You can change the default opacity (0.2) for all callouts
+callouts_opacity: 0.5
+#The value of callouts_level is either quiet or loud;
+callouts_level: loud 
