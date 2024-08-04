@@ -25,3 +25,17 @@ just_the_docs:
       nav_fold: false
     tutorials:
       name: Tutorials
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    title: Highlight
+    color: yellow
+  note:
+    title: Note
+    color: green  
+  important:
+    title: Important
+    color: blue
