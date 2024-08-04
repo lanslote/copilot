@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://lanslote.github.io/copilot
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
@@ -22,6 +22,6 @@ just_the_docs:
   collections:
     copilotplugin:
       name: 코파일럿 플러그인 핸즈온
-      nav_fold: true
+      nav_fold: false
     tutorials:
       name: Tutorials
