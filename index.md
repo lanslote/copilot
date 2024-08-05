@@ -1,35 +1,19 @@
 ---
-title: Home
+title: 코파일럿 놀이터
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.Hello
+안녕하세요. 저는 Microsoft Korea 솔루션사업부의 Copilot Technical Specialist로 일하고 있는 최정우(jeongwoo.choi@microsoft.com) 라고 합니다
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+이 사이트는 코파일럿( for M365)와 관련하여 제가 작성한 기술문서들을 제공하기 위한 것입니다.
+코파일럿이 공식적으로 발매되어 판매되고 있는 제품이긴 하지만, 아직까지도 마이크로소프트 본사에서 끊임없는 연구개발을 통해 개선을 하고 있습니다. 게다가 코파일럿의 확장(플러그인, 그래프커넥터 등)은 아직 프리뷰인 영역이 많습니다. 따라서 오늘 작성한 내용이 내일이 되면 틀린 내용이 되거나, 최선의 내용이 되지 않을 가능성이 있습니다. 개선되고 업데이트 되는 내용을 최대한 따라잡으려고 노력은 하겠지만, 제가 놓칠 수 있음을 양지하여 주시기 바랍니다.   
 
-More specifically, the created site:
+각 문서에는 최종업데이트 날짜를 명기하도록 하겠습니다.
+---
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+{: .highlight-title }
+> 코파일럿 개발 관련 참고 사이트
+>
+> [https://aka.ms/m365copilotdev](https://aka.ms/m365copilotdev)
+> https://aka.ms/m365copilotdev
+> 
