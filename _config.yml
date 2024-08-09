@@ -21,7 +21,7 @@ collections:
 just_the_docs:
   collections:
     copilotplugin:
-      name: 코파일럿 플러그인 핸즈온
+      name: 코파일럿 플러그인(ME) 핸즈온
       nav_fold: false
     tutorials:
       name: Tutorials
