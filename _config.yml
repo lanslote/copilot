@@ -11,19 +11,19 @@ url: https://lanslote.github.io/copilot
 color_scheme: dark
 
 collections:
-  copilotplugin:
+  plugin-ME-HOL:
     permalink: "/:collection/:path/"
     output: true
-  tutorials:
+  plugin-API-HOL:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
-    pluginMEHOL:
+    plugin-ME-HOL:
       name: 코파일럿 플러그인 (ME) 핸즈온
       nav_fold: false
-    pluginAPIHOL:
+    plugin-API-HOL:
       name: 코파일럿 플러그인 (API) 핸즈온
       nav_fold: false
 
