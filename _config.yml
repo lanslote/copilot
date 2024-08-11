@@ -20,11 +20,12 @@ collections:
 
 just_the_docs:
   collections:
-    copilotplugin:
+    plugin-ME-HOL:
       name: 코파일럿 플러그인 (ME) 핸즈온
       nav_fold: false
-    tutorials:
-      name: Tutorials
+    plugin-API-HOL:
+      name: 코파일럿 플러그인 (API) 핸즈온
+      nav_fold: false
 
 #The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined
 callouts:
@@ -45,3 +46,12 @@ callouts:
 callouts_opacity: 0.2
 #The value of callouts_level is either quiet or loud;
 callouts_level: loud 
+
+compress_html:
+  ignore:
+    envs: all
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true    
