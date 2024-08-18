@@ -17,20 +17,38 @@ collections:
   plugin-API-HOL:
     permalink: "/:collection/:path/"
     output: true
+  studio-FILE-HOL:
+    permalink: "/:collection/:path/"
+    output: true
+  studio-WEB-HOL:
+    permalink: "/:collection/:path/"
+    output: true
   studio-API-HOL:
+    permalink: "/:collection/:path/"
+    output: true
+  studio-FLOW-HOL:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
     plugin-ME-HOL:
-      name: VS Code 플러그인 (ME) 핸즈온
+      name: VS Code 플러그인(ME) 핸즈온
       nav_fold: false
     plugin-API-HOL:
-      name: VS Code 플러그인 (API) 핸즈온
+      name: VS Code 플러그인(API) 핸즈온
+      nav_fold: false
+    studio-FILE-HOL:
+      name: Copilot Studio 플러그인(파일) 핸즈온
+      nav_fold: false
+    studio-WEB-HOL:
+      name: Copilot Studio 플러그인(웹) 핸즈온
       nav_fold: false
     studio-API-HOL:
-      name: Copilot Studio 플러그인 핸즈온
+      name: Copilot Studio 플러그인(커넥터) 핸즈온
+      nav_fold: false
+    studio-FLOW-HOL:
+      name: Copilot Studio 플러그인(흐름) 핸즈온
       nav_fold: false
 
 #The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined
