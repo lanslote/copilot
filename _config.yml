@@ -39,16 +39,16 @@ just_the_docs:
       name: VS Code 플러그인(API) 핸즈온
       nav_fold: false
     studio-FILE-HOL:
-      name: Copilot Studio 플러그인(파일) 핸즈온
+      name: Studio 플러그인(파일) 핸즈온
       nav_fold: false
     studio-WEB-HOL:
-      name: Copilot Studio 플러그인(웹) 핸즈온
+      name: Studio 플러그인(웹) 핸즈온
       nav_fold: false
     studio-API-HOL:
-      name: Copilot Studio 플러그인(커넥터) 핸즈온
+      name: Studio 플러그인(커넥터) 핸즈온
       nav_fold: false
     studio-FLOW-HOL:
-      name: Copilot Studio 플러그인(흐름) 핸즈온
+      name: Studio 플러그인(흐름) 핸즈온
       nav_fold: false
 
 #The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined
