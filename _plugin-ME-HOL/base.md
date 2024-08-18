@@ -55,4 +55,4 @@ has_toc: true
 >
 > 이 핸즈온에서 언급하는 "코파일럿"은 Copilot for Microsoft 365 를 의미합니다.
 
-![UnderConstruction](../assets/UC.jpg)
+![UnderConstruction](/copilot/assets/UC.jpg)
