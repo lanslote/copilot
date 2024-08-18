@@ -24,13 +24,13 @@ collections:
 just_the_docs:
   collections:
     plugin-ME-HOL:
-      name: \[VS Code\] 플러그인 (ME) 핸즈온
+      name: VS Code 플러그인 (ME) 핸즈온
       nav_fold: false
     plugin-API-HOL:
-      name: \[VS Code\] 플러그인 (API) 핸즈온
+      name: VS Code 플러그인 (API) 핸즈온
       nav_fold: false
     studio-API-HOL:
-      name: \[Copilot Studio\] 플러그인 핸즈온
+      name: Copilot Studio 플러그인 핸즈온
       nav_fold: false
 
 #The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined
