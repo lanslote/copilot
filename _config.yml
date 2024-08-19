@@ -17,6 +17,9 @@ collections:
   plugin-API-HOL:
     permalink: "/:collection/:path/"
     output: true
+  declarative-HOL:
+    permalink: "/:collection/:path/"
+    output: true
   studio-HOL:
     permalink: "/:collection/:path/"
     output: true
@@ -28,6 +31,9 @@ just_the_docs:
       nav_fold: false
     plugin-API-HOL:
       name: VS Code 플러그인(API) 핸즈온
+      nav_fold: false
+    declarative-HOL:
+      name: 선언적 코파일럿 핸즈온
       nav_fold: false
     studio-HOL:
       name: Copilot Studio 플러그인
