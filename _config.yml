@@ -32,18 +32,6 @@ just_the_docs:
     studio-HOL:
       name: Copilot Studio 플러그인
       nav_fold: false
-    studio-FILE-HOL:
-      name: Studio 플러그인(파일) 핸즈온
-      nav_fold: false
-    studio-WEB-HOL:
-      name: Studio 플러그인(웹) 핸즈온
-      nav_fold: false
-    studio-API-HOL:
-      name: Studio 플러그인(커넥터) 핸즈온
-      nav_fold: false
-    studio-FLOW-HOL:
-      name: Studio 플러그인(흐름) 핸즈온
-      nav_fold: false
 
 #The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined
 callouts:
