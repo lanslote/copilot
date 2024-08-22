@@ -11,6 +11,9 @@ url: https://lanslote.github.io/copilot
 color_scheme: dark
 
 collections:
+  plugin-MES-HOL:
+    permalink: "/:collection/:path/"
+    output: true
   plugin-ME-HOL:
     permalink: "/:collection/:path/"
     output: true
@@ -26,6 +29,9 @@ collections:
 
 just_the_docs:
   collections:
+    plugin-MES-HOL:
+      name: VS Code 플러그인(ME심플) 핸즈온
+      nav_fold: false
     plugin-ME-HOL:
       name: VS Code 플러그인(ME) 핸즈온
       nav_fold: false
