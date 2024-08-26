@@ -30,10 +30,10 @@ collections:
 just_the_docs:
   collections:
     plugin-MES-HOL:
-      name: VS Code 플러그인(ME심플) 핸즈온
+      name: VS Code 플러그인(ME-심플) 핸즈온
       nav_fold: false
     plugin-ME-HOL:
-      name: VS Code 플러그인(ME) 핸즈온
+      name: VS Code 플러그인(ME-Full) 핸즈온
       nav_fold: false
     plugin-API-HOL:
       name: VS Code 플러그인(API) 핸즈온
