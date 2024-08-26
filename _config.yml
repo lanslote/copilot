@@ -34,16 +34,16 @@ just_the_docs:
       nav_fold: false
     plugin-ME-HOL:
       name: VS Code 플러그인(ME-Full) 핸즈온
-      nav_fold: false
+      nav_fold: true
     plugin-API-HOL:
       name: VS Code 플러그인(API) 핸즈온
-      nav_fold: false
+      nav_fold: true
     declarative-HOL:
       name: 선언적 코파일럿 핸즈온
-      nav_fold: false
+      nav_fold: true
     studio-HOL:
       name: Copilot Studio 플러그인
-      nav_fold: false
+      nav_fold: true
 
 #The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined
 callouts:
