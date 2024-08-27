@@ -39,10 +39,10 @@ just_the_docs:
       name: VS Code 플러그인(API) 핸즈온
       nav_fold: true
     declarative-HOL:
-      name: 선언적 코파일럿 핸즈온
+      name: Declarative 코파일럿 핸즈온
       nav_fold: true
     studio-HOL:
-      name: Copilot Studio 플러그인
+      name: 코파일럿 스튜디오 플러그인
       nav_fold: true
 
 #The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined
