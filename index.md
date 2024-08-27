@@ -29,8 +29,9 @@ layout: home
 
 ## 놀이터 주인장 소개
 
-안녕하세요. 최정우(jeongwoo.choi@microsoft.com) 입니다.<br/>
-저는 Microsoft Korea 솔루션사업부에서 Copilot Technical Specialist 로 일하고 있습니다.
+- 안녕하세요. 최정우(jeongwoo.choi@microsoft.com) 입니다. 
+- 저는 Microsoft Korea 솔루션사업부에서 Copilot Technical Specialist 로 일하고 있습니다. 
+- 이 사이트의 컨텐츠에 대해 제안이나 문의는 메일로 연락 바랍니다. 
 
 ---
 
