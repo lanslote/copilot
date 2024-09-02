@@ -73,3 +73,5 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true    
+
+google_analytics: "G-LWCGP80DW7"
