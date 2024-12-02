@@ -1,0 +1,124 @@
+{
+  "swagger": "2.0",
+  "host": "api.coincap.io",
+  "basePath": "/v2/assets/",
+  "schemes": [
+    "https"
+  ],
+  "consumes": [],
+  "produces": [],
+  "definitions": {},
+  "parameters": {},
+  "responses": {},
+  "securityDefinitions": {},
+  "security": [],
+  "tags": [],
+  "info": {
+    "title": "CoinCap",
+    "description": "이 커넥터는 CoinCap에서  RestAPI를 통해 Coin별 실시간 정보를 가져와서 Coin에 대한 설명 및 시세를 확인하는 역할을 합니다.",
+    "version": "1.0"
+  },
+  "paths": {
+    "/{id}": {
+      "get": {
+        "responses": {
+          "default": {
+            "description": "default",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "data": {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "description": "id"
+                    },
+                    "rank": {
+                      "type": "string",
+                      "description": "rank"
+                    },
+                    "symbol": {
+                      "type": "string",
+                      "description": "symbol"
+                    },
+                    "name": {
+                      "type": "string",
+                      "description": "name"
+                    },
+                    "supply": {
+                      "type": "string",
+                      "description": "supply"
+                    },
+                    "maxSupply": {
+                      "type": "string",
+                      "description": "maxSupply"
+                    },
+                    "marketCapUsd": {
+                      "type": "string",
+                      "description": "marketCapUsd"
+                    },
+                    "volumeUsd24Hr": {
+                      "type": "string",
+                      "description": "volumeUsd24Hr"
+                    },
+                    "priceUsd": {
+                      "type": "string",
+                      "description": "priceUsd"
+                    },
+                    "changePercent24Hr": {
+                      "type": "string",
+                      "description": "changePercent24Hr"
+                    },
+                    "vwap24Hr": {
+                      "type": "string",
+                      "description": "vwap24Hr"
+                    },
+                    "explorer": {
+                      "type": "string",
+                      "description": "explorer"
+                    }
+                  },
+                  "description": "data"
+                },
+                "timestamp": {
+                  "type": "integer",
+                  "format": "int32",
+                  "description": "timestamp"
+                }
+              }
+            }
+          }
+        },
+        "summary": "GetCoin",
+        "description": "사용자가 가상화폐 관련 코인 정보를 요청하면 해당 코인 정보를 전달합니다.",
+        "operationId": "Getcoinspecialnumber1205",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "x-ms-openai-data": {
+          "openai-enabled": true,
+          "operations": [
+            {
+              "operationId": "Getcoinspecialnumber1205",
+              "x-ms-require-user-confirmation": false,
+              "summary": "GetCoin",
+              "description": "사용자가 가상화폐 관련 코인 정보를 요청하면 해당 코인 정보를 전달합니다."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "x-ms-openai-manifest": {
+    "humanName": "CoinCap",
+    "modelDescription": "이 커넥터는 CoinCap에서  RestAPI를 통해 Coin별 실시간 정보를 가져와서 Coin에 대한 설명 및 시세를 확인하는 역할을 합니다.",
+    "contactEmail": "",
+    "legalUrl": ""
+  }
+}
